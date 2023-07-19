@@ -1,7 +1,7 @@
 gym
 tensorboard
 moviepy
-pyvirtualdispla
+pyvirtualdisplay
 torch
 opencv-python
 swig

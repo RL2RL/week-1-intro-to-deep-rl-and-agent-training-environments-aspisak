@@ -1,0 +1,15 @@
+gym
+tensorboard
+moviepy
+pyvirtualdispla
+torch
+opencv-python
+swig
+box2d-py
+ray[rllib]
+scikit-image
+pygame
+numba
+Gymnasium
+black
+PyYAML
